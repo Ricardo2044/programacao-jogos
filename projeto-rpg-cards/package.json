@@ -1,0 +1,15 @@
+{
+  "name": "projeto-rpg-cards",
+  "version": "1.0.0",
+  "description": "- Nesse jogo encontraremos uma incrivel aventura no mundo do rpg, encontraremos diversos personagens, biomas, especies, sendo gerados de forma automatica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
